@@ -1,6 +1,4 @@
-## GitHub下载
 
-可以从[colddewwy/Project-Video](https://github.com/colddewwy/Project-Video)中dash文件夹下载
 
 ## 调用代码自己生成
 
